@@ -1,2 +1,21 @@
-# codsoft_taskno.2
-A smart Tic-Tac-Toe game with an unbeatable AI using the Minimax algorithm. Play against the computer in a terminal-based interface.
+#### 📘 README.md
+
+```markdown
+# ❌⭕ Tic-Tac-Toe AI
+
+This is a command-line Tic-Tac-Toe game where you play against an AI that uses the **Minimax algorithm** for optimal moves.
+
+## 🧠 Features
+
+- Human vs AI
+- Minimax with depth evaluation
+- CLI interface
+
+## 🛠️ Tech Stack
+
+- Python
+
+## 🚀 How to Run
+
+```bash
+python tic_tac_toe.py
