@@ -1,5 +1,3 @@
-#### 📘 README.md
-
 # ❌⭕ Tic-Tac-Toe AI
 
 This is a command-line Tic-Tac-Toe game where you play against an AI that uses the **Minimax algorithm** for optimal moves.
